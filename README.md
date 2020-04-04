@@ -1,2 +1,3 @@
 # nake1.github.io
-frist-blog
+frist-blog:
+I don't understand what fuck this?
